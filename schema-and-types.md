@@ -12,7 +12,7 @@ that can be queried in the API.
 
 Here is an example of a GraphQL schema:
 
-```gql
+```graphql
 type Query {
   users: [User]
   user(id: ID!): User
