@@ -1,6 +1,6 @@
 # What is GraphQL
 
-TODO: Image of GraphQL <-> client communication
+> TL:DR https://www.youtube.com/watch?v=eIQh02xuVw4
 
 GraphQL is a query language for your API that allows you to request specific data from an API, rather than getting a fixed set of data from an endpoint. It was developed by Facebook and is often used as an alternative to REST APIs.
 

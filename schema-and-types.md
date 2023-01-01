@@ -104,7 +104,7 @@ The server would then respond with a list of users, each with a `name` and an `e
 
 **Demo 🤯**
 
-TODO: Demo
+TODO Demo
 
 ### Mutation Type
 
@@ -368,7 +368,7 @@ query {
 The server would then return a list of search results, each with a
 `__typename` field that indicates the type of the object (either `User` or
 `Post`). The client can use the `... on` syntax to specify which fields to
-return for each type. On on `... on` in the fragments section later.
+return for each type. On on `... on` in the [fragments](./queries-and-mutations.md#inline-fragments) section later.
 
 ## Input Types
 
@@ -417,6 +417,6 @@ mutation {
 The server would then create a new `User` object with the specified name and email,
 and return the object with its `id` field, as well as the `name` and `email` fields.
 
-**it's a best practice to always use input types for mutations**.
+**It's a best practice to always use input types for mutations**.
 
 [👉 Next: Queries and Mutations](./queries-and-mutations.md)
