@@ -1,8 +1,4 @@
-TODO: Image of graphQL Logo
-
 # Introduction to [GraphQL](https://graphql.org/)
-
-> Disclaimer: This Introduction to GraphQL was done in cooperation with [ChatGPT](https://chat.openai.com/chat)
 
 ## Contents
 
