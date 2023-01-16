@@ -11,4 +11,4 @@
 ### Implementation
 
 1. [Apollo Server](./apollo-server.md)
-2. [Apollo Client (next week)](TODO Link)
+2. [Apollo Client](./apollo-client.md)
